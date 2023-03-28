@@ -21,6 +21,10 @@
 
 ### Yamaha ViReal
 
+[Development of shape-based average head-related transfer functions and their applications](https://www.jstage.jst.go.jp/article/ast/41/1/41_E19226/_pdf/-char/en)
+
+![ViReal](images/ViReal.png)
+รูปจาก [ヤマハ ViReal(バイリアル) \~積み重ねた要素技術でその空間をキャプチャーする\~](https://pro.miroc.co.jp/headline/yamaha-vireal/)
 
 ## Yamaha ZG01
 
