@@ -26,6 +26,12 @@
 ![ViReal](images/ViReal.png)
 รูปจาก [ヤマハ ViReal(バイリアル) \~積み重ねた要素技術でその空間をキャプチャーする\~](https://pro.miroc.co.jp/headline/yamaha-vireal/)
 
+ - Monster Hunter World
+   - [FAQ](https://www.capcom.co.jp/support/faq/full_platform_ps4_monsterhunter_world.html)
+ - RESIDENT EVIL 7 biohazard
+   - [RESIDENT EVIL 7 biohazard Wins Best VR Audio at 2018 G.A.N.G. Awards!](https://www.capcom.co.jp/ir/english/news/html/e180406.html)
+
+
 ## Yamaha ZG01
 
 ## ทดสอบการใช้งาน
