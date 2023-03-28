@@ -109,4 +109,7 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
 ### Roland BRIDGE CAST เปิดตัวต้นเดือนมกราคม 2566 ที่ผ่านมา มีจุดเด่นที่ 
  - Mic preamp สูงถึง +75 dB รองรับไมค์ที่มีความไวในการรับเสียงต่ำ เช่น Shure SM7B (-59 dB)
 
+![roland_bridge_cast_01_top_angle_gal](images/roland_bridge_cast_01_top_angle_gal.jpg)
+
+
 ## ข้อมูลอ้างอิง
