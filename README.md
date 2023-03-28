@@ -2,8 +2,10 @@
 
  - เกริ่นนำ
  - การรับรู้ตำแหน่งของเสียง (sound localization)
+   - HRTF และประโยชน์ที่ได้รับ
    - Yamaha ViReal
  - Yamaha ZG01
+   - สเปคเบื้องต้น
  - ทดสอบการใช้งาน
  - จุดเด่น/จุดด้อย
  - ตัวเลือกอื่น ๆ
@@ -18,6 +20,15 @@
 อ่านสเปคและรีวิวต่าง ๆ อยู่พักใหญ่ เห็นจุดเด่นของ ZG01 ที่ไม่เหมือนใครคือ HDMI In/Out รองรับเสียง 7.1 จาก Blu-ray player และเครื่องเกมคอนโซลโดยตรง พร้อมกับมีเทคโนโลยี [ViReal](https://www.yamaha.com/en/about/research/technologies/vireal/) ที่ช่วยจำลองระบบเสียงรอบทิศทางผ่านหูฟังทั่วไป สามารถทำงานได้โดยไม่จะเป็นต้องต่อคอมพิวเตอร์ และจุดด้อยที่เราสามารถแก้ไขได้ จึงตัดสินใจซื้อไปเมื่อปลายเดือน ม.ค. 2566 ที่ผ่านมา
 
 ## การรับรู้ตำแหน่งของเสียง (sound localization)
+
+![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
+
+### HRTF และประโยชน์ที่ได้รับ
+
+Cognitive load
+
+![epos_brainadapt_v11.00_00_42_16.still004_web](images/epos_brainadapt_v11.00_00_42_16.still004_web.jpg)
+
 
 ### Yamaha ViReal
 
@@ -34,10 +45,53 @@
 
 ## Yamaha ZG01
 
+ZG01 ออกแบบมาให้ง่ายต่อการใช้งาน ลูกเล่นและช่องต่อจึงไม่ได้เยอะเหมือนมิกเซอร์ทั่วไป แต่ก็เพียงพอและครบถ้วนสำหรับการเล่นเกมและสตรีมมิ่ง
+
+### สเปคเบื้องต้น
+
+#### Input
+ - Neutrik XLR combo พร้อมไฟเลี้ยง +48 V phantom power รองรับไมค์คอนเดนเซอร์
+ - 3.5mm headset mic
+ - 3.5mm 4-pole TRRS input/output สำหรับต่อสมาร์ทโฟนโดยเฉพาะ
+ - HDMI x 2 ช่อง สำหรับเกมคอนโซล
+ - USB type-C สำหรับ Steinberg virtual devices x 2 ช่อง (voice, streaming)
+
+##### Output
+ - 3.5mm headphone
+ - 3.5mm 4-pole TRRS input/output สำหรับต่อสมาร์ทโฟนโดยเฉพาะ
+ - 3.5mm speaker out
+ - HDMI 2ch 24-bit/48kHz
+ - USB type-C สำหรับ Steinberg virtual devices x 2 ช่อง (voice, speaker)
+
+#### Power
+ - ใช้ไฟจากช่อง USB type-C
+ - ช่องต่อไฟแยก DC 5V 1.5A แบบ USB type-C ในกรณีที่ไม่ต่อกับคอมพิวเตอร์หรือต่อไฟเพิ่มหากไฟจาก USB ไม่พอต่อการใช้งาน
+
+#### อื่น ๆ
+ - ไฟ LED ปรับความสว่างได้ (Low, High) โดยใช้[ฟิลม์สีแบบพิเศษเพื่อให้ได้สีฟ้าอ่อน](https://www.yamaha.com/ja/recruitment/worth/zg01_project/)
+ - Made in Malaysia
+
 ## ทดสอบการใช้งาน
 
 ## จุดเด่น/จุดด้อย
 
+### จุดเด่น
+ - ZG Sound Processing (ZG SURROUN D, FOCUS MODE, EQ, 3D CHAT SPACE) ในตัวเครื่อง ใช้งานได้โดยไม่ต้องเชื่อมต่อคอมพิวเตอร์
+ - ViReal for Headphones ให้เสียงเซอร์ราวด์สามมิติด้วยการใช้งานหูฟังปกติ
+ - HDMI IN/OUT รับ-ส่งสัญญาณเสียงแบบดิจิทัล รองรับระบบเสียง 7.1 แชนแนล
+ - Loopback สัญญาณเสียงไปออกที่ HDMI และ USB ได้ ทำให้ยืดหยุ่นในการใช้งานสตรีมมิ่ง, ประชุมออนไลน์และฟังเพลงไปพร้อมกันได้ โดยอีกฝ่ายจะได้ยินแค่เสียงไมค์ของเรา
+ - Aux ใช้งาน ZG01 เสมือนเป็น heatset ที่เสียบเข้ากับ smartphone, อัดเสียงสนทนาได้, เปิดเเสียง background เสมือนอยู่ที่ต่าง ๆ ได้
+
+### จุดด้อย
+ - Mic preamp ค่อนข้างน้อย +44 dB หากใช้ไมค์ที่มีความไวในการรับเสียงต่ำ ๆ เสียงที่ได้จะค่อนข้างเบา ต้องใช้ Mic Booster หรือปรับแต่งระดับเสียงใน post production แทน
+ - การปรับแต่ง mixer พื้นฐาน ไม่ละเอียด
+ - เสียงจาก voice changer ไม่ค่อยเป็นธรรมชาติ
+ - ViReal for Headphones ไม่เหมาะกับเสียงที่ผ่านการปรุงแต่ง (baked) มาแล้ว เช่น binaural audio, ASMR เมื่อเปิดใช้งานเสียงเซอร์ราวด์สามมิติอาจไม่สามารถระบุทิศทางของแหล่งกำเนิดเสียงได้
+ - ZG Controller ไม่มีคู่มือแบบละเอียดมาให้ด้วย ต้องค้นหาข้อมูลเพิ่มเติมจากเวปภาษาญี่ปุ่น
+
 ## ตัวเลือกอื่น ๆ
+
+### Roland BRIDGE CAST เปิดตัวต้นเดือนมกราคม 2566 ที่ผ่านมา มีจุดเด่นที่ 
+ - Mic preamp สูงถึง +75 dB รองรับไมค์ที่มีความไวในการรับเสียงต่ำ เช่น Shure SM7B (-59 dB)
 
 ## ข้อมูลอ้างอิง
