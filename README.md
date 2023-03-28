@@ -54,14 +54,14 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
  - 3.5mm headset mic
  - 3.5mm 4-pole TRRS input/output สำหรับต่อสมาร์ทโฟนโดยเฉพาะ
  - HDMI x 2 ช่อง สำหรับเกมคอนโซล
- - USB type-C สำหรับ Steinberg virtual devices x 2 ช่อง (voice, streaming)
+ - USB type-C สำหรับ Steinberg virtual devices x 2 อุปกรณ์เสมือน (virtual devices) สำหรับ voice และ streaming
 
 ##### Output
  - 3.5mm headphone
  - 3.5mm 4-pole TRRS input/output สำหรับต่อสมาร์ทโฟนโดยเฉพาะ
  - 3.5mm speaker out
  - HDMI 2ch 24-bit/48kHz
- - USB type-C สำหรับ Steinberg virtual devices x 2 ช่อง (voice, speaker)
+ - USB type-C สำหรับ Steinberg virtual devices x 2 อุปกรณ์เสมือน (virtual devices) สำหรับ voice และ speaker
 
 #### Power
  - ใช้ไฟจากช่อง USB type-C
