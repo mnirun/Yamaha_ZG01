@@ -72,7 +72,7 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
    - ข้อมูลจากโปรแกรม [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
      - **Min volume:** -96.00 dB
      - **Max volume:** 0.00 dB
-     - **Volume step:** 1.50 dB
+     - **Volume step:** 1.50 dB/step
      - **Total steps:** 64
 
 #### อื่น ๆ
