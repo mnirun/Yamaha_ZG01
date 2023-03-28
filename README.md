@@ -67,6 +67,14 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
  - ใช้ไฟจากช่อง USB type-C
  - ช่องต่อไฟแยก DC 5V 1.5A แบบ USB type-C ในกรณีที่ไม่ต่อกับคอมพิวเตอร์หรือต่อไฟเพิ่มหากไฟจาก USB ไม่พอต่อการใช้งาน
 
+#### Volume
+ - ลูกบิดปรับระดับเสียงดิจิตอลขนาดใหญ่แบบ velocity-sensitive หมุนเร็วระดับเสียงเพิ่มเร็ว-หมุนช้าระดับเสียงเพิ่มช้า พร้อมไฟ LED 25 ขีด รอบลูกบิด
+   - ข้อมูลจากโปรแกรม [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
+     - **Min volume:** -96.00 dB
+     - **Max volume:** 0.00 dB
+     - **Volume step:** 1.50 dB
+     - **Total steps:** 64
+
 #### อื่น ๆ
  - ไฟ LED ปรับความสว่างได้ (Low, High) โดยใช้[ฟิลม์สีฟ้าอ่อนแบบพิเศษ](https://www.yamaha.com/ja/recruitment/worth/zg01_project/)
  - Made in Malaysia
