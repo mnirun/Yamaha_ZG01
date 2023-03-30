@@ -135,9 +135,14 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
  - [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
 
 ### อุปกรณ์เสริม
- - [AC Acrylic Stand รุ่น U2](https://www.ac-acrylic.com/p/50/)
- - [Audio-Technica AT2040 Hypercardioid Dynamic Podcast Microphone](https://www.audio-technica.com/en-us/at2040)
- - [Klark Teknik MIC BOOSTER CM-1](https://www.klarkteknik.com/product.html?modelCode=P0DPA)
+ - Stand
+   - [AC Acrylic Stand รุ่น U2](https://www.ac-acrylic.com/p/50/)
+ - Microphone
+   - [Audio-Technica AT2040 Hypercardioid Dynamic Podcast Microphone](https://www.audio-technica.com/en-us/at2040)
+   - [Klark Teknik MIC BOOSTER CM-1](https://www.klarkteknik.com/product.html?modelCode=P0DPA)
+   - [MOGAMI 2534 Neglex Quad Cable](https://www.kimlengaudio.com/mogami-2534-xm-xf.html)
+   - [HOLZ WS01 Wind Shield](https://www.millionheadpro.com/product-detail.php?id=7883)
+   - [VIJIM LS08 Flexible Overhead Camera Mount Desk Stand](https://www.ulanzi.com/products/vijim-ls08-flexible-arm-professional-live-streaming-stand-equipment)
  - Silicone port dust cover
  - HDMI splitter
 
