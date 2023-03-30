@@ -86,6 +86,7 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
 
 #### Input
  - Neutrik XLR combo พร้อมไฟเลี้ยง +48 V phantom power รองรับไมค์คอนเดนเซอร์
+   - **Input level:** -40 dBu (7.75mV) ~ +4 dBu (1.23 mV)
  - 3.5mm headset mic
  - 3.5mm 4-pole TRRS input/output สำหรับต่อสมาร์ทโฟนโดยเฉพาะ
  - HDMI x 2 ช่อง สำหรับเกมคอนโซล
