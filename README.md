@@ -34,9 +34,12 @@
 
 ![Sound-source-localiza_2018_Fig_1](images/Sound-source-localiza_2018_Fig_1.png)
 
-### การรับรู้ตำแหน่งของเสียง (Sound localization)
- - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
- - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
+ - การรับรู้ตำแหน่งของเสียง (Sound localization)
+   - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization) ด้วยหูสองข้าง (binaural cues)
+     - ความแตกต่างของเวลาที่มาถึง (Interaural Time Difference (ITD))
+     - ความแตกต่างของความดังเสียงที่มาถึง (Interaural Level Differences (ILD))
+   - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization) ด้วยหูข้างเดียว (monaural spectral cues)
+     - เบาะแสจากความถี่เสียง (Spectral Cues)
 
 #### การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
 การรับรู้ตำแหน่งของเสียงในแนวราบด้วยหูสองข้าง (binaural cues)
@@ -54,7 +57,7 @@
 
 #### การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
 การรับรู้ตำแหน่งของเสียงในแนวดิ่งด้วยหูข้างเดียว (monaural spectral cues)
- - Spectral Cues
+ - เบาะแสจากความถี่เสียง (Spectral Cues)
 
 ![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
 
