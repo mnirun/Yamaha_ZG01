@@ -63,6 +63,13 @@
 
 ### HRTF และประโยชน์ที่ได้รับ
 
+#### การเลือกหูฟังเพื่อใช้งาน HRTF
+
+เลือกหูฟังที่มีการตอบสนองความถี่ที่ราบเรียบ (flat frequency response) โดยเฉพาะในช่วง 1 kHz ~ 8 kHz
+ - [หูฟัง - การวิจัย การออกแบบ และการพัฒนาปรับปรุง](https://www.valvesoftware.com/th/index/deep-dive/ear-speakers)
+ - [The hidden flaw in HRTF emulation](https://www.sonarworks.com/blog/learn/the-hidden-flaw-in-hrtf-emulation)
+ - [The Effects of Headphones on Listener HRTF Preference](https://www.researchgate.net/publication/266885697_The_Effects_of_Headphones_on_Listener_HRTF_Preference)
+
 Cognitive load
 
 ![epos_brainadapt_v11.00_00_42_16.still004_web](images/epos_brainadapt_v11.00_00_42_16.still004_web.jpg)
