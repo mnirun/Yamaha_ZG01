@@ -32,6 +32,8 @@
  - ตำแหน่งในแนวดิ่ง = elevation
  - ระยะทาง (distance)
 
+![Sound-source-localiza_2018_Fig_1](images/Sound-source-localiza_2018_Fig_1.png)
+
 ### การรับรู้ตำแหน่งของเสียง (Sound localization)
  - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
  - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
