@@ -19,6 +19,37 @@
 
 ## การรับรู้ตำแหน่งของเสียง (sound localization)
 
+ระบบประสาทการมองเห็น (visual system) และ ระบบประสาทรับความรู้สึกทางกาย (somatosensory system) มีข้อมูลตำแหน่ง (spatial information) ต่างจากระบบการได้ยิน (auditory system) ที่ไม่มีข้อมูลส่วนนี้ ต้องใช้การดึงข้อมูลออกมาจาก เวลา (timing), ความดัง (intensity) และความถี่ (spectral) ของเสียงที่ได้ยิน
+ 
+ การรับรู้ตำแหน่งของเสียง มีความสำคัญต่อ
+  - การล่าเหยื่อ
+  - การตรวจจับและหลีกเลี่ยงภัยคุกคาม
+  - การรับฟังเสียงในพื้นที่เสียงดัง ([Cocktail party effect](https://themomentum.co/happy-health-the-cocktail-party-effect/))
+  - การนำทางด้วยการใช้เทคนิคระบุตำแหน่งด้วยเสียงสะท้อน ([Echolocation](https://www.bbc.com/thai/features-43224386))
+
+### ระบบพิกัด (coordinates)
+ - ตำแหน่งในแนวราบ = azimuth
+ - ตำแหน่งในแนวดิ่ง = elevation
+ - ระยะทาง (distance)
+
+### การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
+การรับรู้ตำแหน่งของเสียงในแนวราบ อาศัย binaural cues (binaural = หูสองข้าง)
+ - Interaural Time Difference (ITD)
+ - Interaural Level Differences (ILD)
+
+#### Interaural Time Difference (ITD)
+ - ความถี่เสียงต่ำกว่า 2 kHz
+ - ITD เฉลี่ย 600 ns (nanoseconds)
+ - สมองรับรูความแตกต่างในระดับ 10 ns ได้
+
+#### Interaural Level Differences (ILD)
+ - ความถี่เสียงสูงกว่า 2 kHz
+ - ความดังของเสียงที่คนทั่วไปรับรู้ถึงความแตกต่างได้ ([Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference#Music_production_applications)) อยู่ที่ 1 dB
+
+#### การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
+การรับรู้ตำแหน่งของเสียงในแนวดิ่ง อาศัย monaural spectral cues (monaural = หูข้างเดียว)
+ - Spectral Cues
+
 ![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
 
 ### HRTF และประโยชน์ที่ได้รับ
@@ -74,7 +105,6 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
      - **Max volume:** 0.00 dB
      - **Volume step:** 1.50 dB/step
      - **Total steps:** 64 (96.00 หารด้วย 1.50)
- - **หมายเหตุ:** ความดังของเสียงที่คนทั่วไปรับรู้ถึงความแตกต่างได้ ([Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference#Music_production_applications)) อยู่ที่ 1 dB
 
 #### อื่น ๆ
  - ไฟ LED ปรับความสว่างได้ (Low, High) โดยใช้[ฟิลม์สีฟ้าอ่อนแบบพิเศษ](https://www.yamaha.com/ja/recruitment/worth/zg01_project/)
