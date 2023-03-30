@@ -5,13 +5,13 @@
  - Yamaha ZG01
  - ทดสอบการใช้งาน
  - จุดเด่น/จุดด้อย
- - อุปกรณ์เสริม
+ - โปรแกรม/อุปกรณ์เสริม
  - ตัวเลือกอื่น ๆ
  - ข้อมูลอ้างอิง
  
 ## เกริ่นนำ
 
-หลายปีที่ผ่านมาผมมองหาอุปกรณ์ที่จะช่วยให้สัมผัสถึงประสบการณ์เสียงโอบล้อมแบบรอบทิศทางด้วยหูฟัง (3D immersive audio) เพื่อใช้ดูหนัง, ฟังเพลงและเล่นเกมส์ในตอนกลางคืน โดยไม่รบกวนคนรอบข้าง ไม่ว่าจะเป็น [หูฟังไร้สาย Sennheiser RS 175-U](https://th.sennheiser.com/products/rs-175-u), [หูฟังไร้สาย JVC XP-EXT1 EXOFIELD THEATER](https://www.us.jvc.com/headphones/microsite/exofield_ext1/) ที่ในคู่มือมีภาษาไทย แต่ไม่มีขายในไทย, การ์ดเสียง EPOS GSX 1000 1st/[2nd edition](https://www.eposaudio.com/en/th/gaming/products/gsx-1000-2nd-edition-gaming-amplifier-1001150), การ์ดเสียง Creative Sound Blaster [G6](https://us.creative.com/p/sound-blaster/sound-blasterx-g6)/[X4](https://us.creative.com/p/sound-blaster/sound-blaster-x4)/[GC7](https://us.creative.com/p/sound-blaster/sound-blaster-gc7) แต่ละตัวก็มีข้อดีต่างกันแต่ก็ยังไม่ตอบโจทย์ที่ผมต้องการ
+หลายปีที่ผ่านมาผมมองหาอุปกรณ์ที่จะช่วยให้สัมผัสถึงประสบการณ์เสียงโอบล้อมแบบรอบทิศทางด้วยหูฟัง (3D immersive audio) เพื่อใช้ดูหนัง, ฟังเพลงและเล่นเกมส์ในตอนกลางคืน โดยไม่รบกวนคนรอบข้าง ไม่ว่าจะเป็น [หูฟังไร้สาย Yamaha YH-L700A](https://th.yamaha.com/th/products/audio_visual/headphones/yh-l700a/index.html), [หูฟังไร้สาย Sennheiser RS 175-U](https://th.sennheiser.com/products/rs-175-u), [หูฟังไร้สาย JVC XP-EXT1 EXOFIELD THEATER](https://www.us.jvc.com/headphones/microsite/exofield_ext1/) ที่ในคู่มือมีภาษาไทย แต่ไม่มีขายในไทย, การ์ดเสียง EPOS GSX 1000 1st/[2nd edition](https://www.eposaudio.com/en/th/gaming/products/gsx-1000-2nd-edition-gaming-amplifier-1001150), การ์ดเสียง Creative Sound Blaster [G6](https://us.creative.com/p/sound-blaster/sound-blasterx-g6)/[X4](https://us.creative.com/p/sound-blaster/sound-blaster-x4)/[GC7](https://us.creative.com/p/sound-blaster/sound-blaster-gc7) แต่ละตัวก็มีข้อดีต่างกันแต่ก็ยังไม่ตอบโจทย์ที่ผมต้องการ
 
 ปลายปีที่แล้วได้รู้จักกับ [Yamaha ZG01](https://th.yamaha.com/th/products/proaudio/live_streaming_gaming/zg/zg01/index.html) ซึ่งเป็น Game Streaming Audio Mixer ตัวแรกจากทาง Yamaha ที่พัฒนามาตั้งแต่ปี [2020](https://www.yamaha.com/ja/recruitment/worth/zg01_project/) ที่เกิดจากการร่วมมือกันระหว่างทีมงาน Home Audio และทีมงาน Professional Audio ผสมผสานกับเทคโนโลยีต่าง ๆ ของ Yamaha จนออกมาเป็น ZG01 ที่เปิดตัวเมื่อ [20 เม.ย. 2565](https://th.yamaha.com/th/news_events/2022/0420_50_zg.html)
 
@@ -73,7 +73,8 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
      - **Min volume:** -96.00 dB
      - **Max volume:** 0.00 dB
      - **Volume step:** 1.50 dB/step
-     - **Total steps:** 64
+     - **Total steps:** 64 (96.00 หารด้วย 1.50)
+ - **หมายเหตุ:** ความดังของเสียงที่คนทั่วไปรับรู้ถึงความแตกต่างได้ ([Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference#Music_production_applications)) อยู่ที่ 1 dB
 
 #### อื่น ๆ
  - ไฟ LED ปรับความสว่างได้ (Low, High) โดยใช้[ฟิลม์สีฟ้าอ่อนแบบพิเศษ](https://www.yamaha.com/ja/recruitment/worth/zg01_project/)
@@ -97,11 +98,17 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
  - ViReal for Headphones ไม่เหมาะกับเสียงที่ผ่านการปรุงแต่ง (baked) มาแล้ว เช่น binaural audio, ASMR เมื่อเปิดใช้งานเสียงเซอร์ราวด์สามมิติอาจไม่สามารถระบุทิศทางของแหล่งกำเนิดเสียงได้
  - ZG Controller ไม่มีคู่มือแบบละเอียดมาให้ด้วย ต้องค้นหาข้อมูลเพิ่มเติมจากเวปภาษาญี่ปุ่น
 
-## อุปกรณ์เสริม
+## โปรแกรม/อุปกรณ์เสริม
 
- - Acrylic stand
- - Mic booster
- - Port cover
+### โปรแกรมเสริม
+ - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+ - [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
+
+### อุปกรณ์เสริม
+ - [AC Acrylic Stand รุ่น U2](https://www.ac-acrylic.com/p/50/)
+ - [Audio-Technica AT2040 Hypercardioid Dynamic Podcast Microphone](https://www.audio-technica.com/en-us/at2040)
+ - [Klark Teknik MIC BOOSTER CM-1](https://www.klarkteknik.com/product.html?modelCode=P0DPA)
+ - Silicone port dust cover
  - HDMI splitter
 
 ## ตัวเลือกอื่น ๆ
