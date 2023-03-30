@@ -32,22 +32,26 @@
  - ตำแหน่งในแนวดิ่ง = elevation
  - ระยะทาง (distance)
 
-### การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
-การรับรู้ตำแหน่งของเสียงในแนวราบ อาศัย binaural cues (binaural = หูสองข้าง)
- - Interaural Time Difference (ITD)
- - Interaural Level Differences (ILD)
+### การรับรู้ตำแหน่งของเสียง (Sound localization)
+ - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
+ - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
 
-#### Interaural Time Difference (ITD)
+#### การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
+การรับรู้ตำแหน่งของเสียงในแนวราบด้วยหูสองข้าง (binaural cues)
+ - ความแตกต่างของเวลาที่มาถึง (Interaural Time Difference (ITD))
+ - ความแตกต่างของความดังเสียงที่มาถึง (Interaural Level Differences (ILD))
+
+##### ความแตกต่างของเวลาที่มาถึง (Interaural Time Difference (ITD))
  - ความถี่เสียงต่ำกว่า 2 kHz
  - ITD เฉลี่ย 600 ns (nanoseconds)
  - สมองรับรูความแตกต่างในระดับ 10 ns ได้
 
-#### Interaural Level Differences (ILD)
+##### ความแตกต่างของความดังเสียงที่มาถึง (Interaural Level Differences (ILD))
  - ความถี่เสียงสูงกว่า 2 kHz
  - ความดังของเสียงที่คนทั่วไปรับรู้ถึงความแตกต่างได้ ([Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference#Music_production_applications)) อยู่ที่ 1 dB
 
 #### การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
-การรับรู้ตำแหน่งของเสียงในแนวดิ่ง อาศัย monaural spectral cues (monaural = หูข้างเดียว)
+การรับรู้ตำแหน่งของเสียงในแนวดิ่งด้วยหูข้างเดียว (monaural spectral cues)
  - Spectral Cues
 
 ![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
@@ -99,15 +103,19 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
  - ช่องต่อไฟแยก DC 5V 1.5A แบบ USB type-C ในกรณีที่ไม่ต่อกับคอมพิวเตอร์หรือต่อไฟเพิ่มหากไฟจาก USB ไม่พอต่อการใช้งาน
 
 #### Volume
- - ลูกบิดปรับระดับเสียงดิจิตอลขนาดใหญ่แบบ velocity-sensitive หมุนเร็วระดับเสียงเพิ่มเร็ว-หมุนช้าระดับเสียงเพิ่มช้า พร้อมไฟ LED 25 ขีด รอบลูกบิด
+ - ลูกบิดปรับระดับเสียงดิจิตอลขนาดใหญ่แบบ velocity-sensitive หมุนเร็วระดับเสียงเปลี่ยนเร็ว-หมุนช้าระดับเสียงเปลี่ยนช้า 64 สเตป พร้อมไฟ LED 25 ขีดรอบลูกบิด
    - ข้อมูลจากโปรแกรม [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html)
      - **Min volume:** -96.00 dB
      - **Max volume:** 0.00 dB
      - **Volume step:** 1.50 dB/step
-     - **Total steps:** 64 (96.00 หารด้วย 1.50)
+ - ลูกบิดปรับเกนไมโครโฟน (mic gain)
+ - ลูกบิดปรับระดับแชทด้วยสียง (voice chat)
+ - ลูกบิดปรับระดับเสียงเกม (game sound)
+ - เฟดเดอร์ไมโครโฟน
 
 #### อื่น ๆ
  - ไฟ LED ปรับความสว่างได้ (Low, High) โดยใช้[ฟิลม์สีฟ้าอ่อนแบบพิเศษ](https://www.yamaha.com/ja/recruitment/worth/zg01_project/)
+ - [USB2.1](https://microchip.my.site.com/s/article/Does-a-USB2-1-Specification-Exist)
  - Made in Malaysia
 
 ## ทดสอบการใช้งาน
@@ -150,6 +158,7 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
 
 ### Roland BRIDGE CAST เปิดตัวต้นเดือนมกราคม 2566 ที่ผ่านมา มีจุดเด่นที่ 
  - Mic preamp สูงถึง +75 dB รองรับไมค์ที่มีความไวในการรับเสียงต่ำ เช่น Shure SM7B (-59 dB)
+ - ราคา 16,500 บาท
 
 ![roland_bridge_cast_01_top_angle_gal](images/roland_bridge_cast_01_top_angle_gal.jpg)
 
