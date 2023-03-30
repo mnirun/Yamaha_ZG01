@@ -21,25 +21,27 @@
 
 ระบบประสาทการมองเห็น (visual system) และ ระบบประสาทรับความรู้สึกทางกาย (somatosensory system) มีข้อมูลตำแหน่ง (spatial information) ต่างจากระบบการได้ยิน (auditory system) ที่ไม่มีข้อมูลส่วนนี้ ต้องใช้การดึงข้อมูลออกมาจาก เวลา (timing), ความดัง (intensity) และความถี่ (spectral) ของเสียงที่ได้ยิน
  
- การรับรู้ตำแหน่งของเสียง มีความสำคัญต่อ
+การรับรู้ตำแหน่งของเสียง มีความสำคัญต่อ
   - การล่าเหยื่อ
   - การตรวจจับและหลีกเลี่ยงภัยคุกคาม
   - การรับฟังเสียงในพื้นที่เสียงดัง ([Cocktail party effect](https://themomentum.co/happy-health-the-cocktail-party-effect/))
   - การนำทางด้วยการใช้เทคนิคระบุตำแหน่งด้วยเสียงสะท้อน ([Echolocation](https://www.bbc.com/thai/features-43224386))
 
-### ระบบพิกัด (coordinates)
+ระบบพิกัด (coordinates)
  - ตำแหน่งในแนวราบ = azimuth
  - ตำแหน่งในแนวดิ่ง = elevation
  - ระยะทาง (distance)
 
 ![Sound-source-localiza_2018_Fig_1](images/Sound-source-localiza_2018_Fig_1.png)
 
- - การรับรู้ตำแหน่งของเสียง (Sound localization)
-   - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization) ด้วยหูสองข้าง (binaural cues)
-     - ความแตกต่างของเวลาที่มาถึง (Interaural Time Difference (ITD))
-     - ความแตกต่างของความดังเสียงที่มาถึง (Interaural Level Differences (ILD))
-   - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization) ด้วยหูข้างเดียว (monaural spectral cues)
-     - เบาะแสจากความถี่เสียง (Spectral Cues)
+การรับรู้ตำแหน่งของเสียง (Sound localization)
+ - การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization) ด้วยหูสองข้าง (binaural cues)
+   - ความแตกต่างของเวลาที่มาถึง (Interaural Time Difference (ITD))
+   - ความแตกต่างของความดังเสียงที่มาถึง (Interaural Level Differences (ILD))
+ - การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization) ด้วยหูข้างเดียว (monaural cues)
+   - เบาะแสจากความถี่เสียง (Spectral Cues)
+
+![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
 
 #### การรับรู้ตำแหน่งของเสียงในแนวราบ (Horizontal sound localization)
 การรับรู้ตำแหน่งของเสียงในแนวราบด้วยหูสองข้าง (binaural cues)
@@ -56,10 +58,8 @@
  - ความดังของเสียงที่คนทั่วไปรับรู้ถึงความแตกต่างได้ ([Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference#Music_production_applications)) อยู่ที่ 1 dB
 
 #### การรับรู้ตำแหน่งของเสียงในแนวดิ่ง (Vertical sound localization)
-การรับรู้ตำแหน่งของเสียงในแนวดิ่งด้วยหูข้างเดียว (monaural spectral cues)
+การรับรู้ตำแหน่งของเสียงในแนวดิ่งด้วยหูข้างเดียว (monaural cues)
  - เบาะแสจากความถี่เสียง (Spectral Cues)
-
-![Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4](/images/Nothwang_vGLUT2_projection_neurons_Review_Prog_Neurobiol_2016_Fig_4.png)
 
 ### HRTF และประโยชน์ที่ได้รับ
 
