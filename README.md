@@ -68,7 +68,11 @@
 เลือกหูฟังที่มีการตอบสนองความถี่ที่ราบเรียบ (flat frequency response) โดยเฉพาะในช่วง 1 kHz ~ 8 kHz
  - [หูฟัง - การวิจัย การออกแบบ และการพัฒนาปรับปรุง](https://www.valvesoftware.com/th/index/deep-dive/ear-speakers)
  - [The hidden flaw in HRTF emulation](https://www.sonarworks.com/blog/learn/the-hidden-flaw-in-hrtf-emulation)
- - [The Effects of Headphones on Listener HRTF Preference](https://www.researchgate.net/publication/266885697_The_Effects_of_Headphones_on_Listener_HRTF_Preference)
+
+
+Papers
+ - [The Effects of Headphones on Listener HRTF Preference](https://wp.nyu.edu/braxtonboren/wp-content/uploads/sites/661/2015/07/HeadphonesListenerHRTFPref_FINAL.pdf)
+ - [On the Influence of Headphones on Localisation of Loudspeaker Sources](http://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP276.pdf)
 
 ตัวอย่างหูฟัง
  - [Final E500](https://snext-final.com/products/detail/E500)
