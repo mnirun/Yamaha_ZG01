@@ -70,7 +70,16 @@
  - [The hidden flaw in HRTF emulation](https://www.sonarworks.com/blog/learn/the-hidden-flaw-in-hrtf-emulation)
  - [The Effects of Headphones on Listener HRTF Preference](https://www.researchgate.net/publication/266885697_The_Effects_of_Headphones_on_Listener_HRTF_Preference)
 
+ตัวอย่างหูฟัง
+ - [Final E500](https://snext-final.com/products/detail/E500)
+ - [Final VR3000](https://snext-final.com/en/products/detail/VR3000forGaming)
+ - [Audio-Technica ATH-R70x](https://www.audio-technica.com/en-us/ath-r70x)
+ - [Sennheiser HD 650](https://th.sennheiser.com/products/hd-650)
+ - [Sennheiser HD 800 S](https://th.sennheiser.com/products/hd-800-s)
+
 Cognitive load
+
+[Benefits of immersive spatial audio on athlete reaction times in e-sports](https://osf.io/dwyr5/download)
 
 ![epos_brainadapt_v11.00_00_42_16.still004_web](images/epos_brainadapt_v11.00_00_42_16.still004_web.jpg)
 
