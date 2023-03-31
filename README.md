@@ -83,7 +83,8 @@ Papers
 
 Cognitive load
 
-[Benefits of immersive spatial audio on athlete reaction times in e-sports](https://osf.io/dwyr5/download)
+ - [Benefits of immersive spatial audio on athlete reaction times in e-sports](https://osf.io/dwyr5/download)
+ - [SPATIAL AUDIO FOR AUGMENTED REALIT](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/Billinghurst_Mark_SpatialAudio.pdf)
 
 ![epos_brainadapt_v11.00_00_42_16.still004_web](images/epos_brainadapt_v11.00_00_42_16.still004_web.jpg)
 
