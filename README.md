@@ -1,4 +1,4 @@
-# รีวิว: Yamaha ZG01 เกมสตรีมมิ่งมิกเซอร์
+# รีวิว: Yamaha ZG01 เกมสตรีมมิ่งมิกเซอร์ (Work in progress, last updated 2023.06.06)
 
  - เกริ่นนำ
  - การรับรู้ตำแหน่งของเสียง (sound localization)
@@ -185,7 +185,7 @@ ZG01 ออกแบบมาให้ง่ายต่อการใช้ง
 
 ### Roland BRIDGE CAST เปิดตัวต้นเดือนมกราคม 2566 ที่ผ่านมา มีจุดเด่นที่ 
  - Mic preamp สูงถึง +75 dB รองรับไมค์ที่มีความไวในการรับเสียงต่ำ เช่น Shure SM7B (-59 dB)
- - ราคา 16,500 บาท
+ - [ราคา 10,400 บาท](https://theeramusic.com/product/roland-bridge-cast-dual-bus-gaming-mixer/)
 
 ![roland_bridge_cast_01_top_angle_gal](images/roland_bridge_cast_01_top_angle_gal.jpg)
 
